@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/activation-1.1.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/aopalliance-1.0.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/apache-mime4j-0.6.jar"/>
@@ -90,5 +89,8 @@
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/weld-se-2.1.0.Final.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/woodstox-core-asl-4.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mongo-2.10.1.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
